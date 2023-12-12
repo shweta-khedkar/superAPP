@@ -1,0 +1,10 @@
+.timerComponent {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 0.55;
+  border-radius: 20px;
+  max-height: 20.675rem;
+  background-color: #1e2343;
+}

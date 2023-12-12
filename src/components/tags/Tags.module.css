@@ -1,0 +1,27 @@
+.tags,
+.select {
+  display: flex;
+  align-items: center;
+  background-color: #148a08;
+  font-size: 1.2rem;
+  width: 10rem;
+  height: 3rem;
+  padding: 1.3rem 1.5rem;
+  border-radius: 100px;
+  font-weight: 600;
+  color: #ffffff;
+  justify-content: space-between;
+}
+.select {
+  align-items: center;
+  justify-content: center;
+  background-color: #9f94ff;
+  width: 11rem;
+  height: 1rem;
+  padding: 1.25rem 1.5rem;
+}
+.delete {
+  color: #085c00;
+  cursor: pointer;
+  font-weight: 900;
+}
